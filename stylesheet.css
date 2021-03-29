@@ -218,6 +218,7 @@
   .footer-contents{
     float: left;
     width: 25%;
+    padding-bottom: 5px;
   }
 
   .footer-contents img{
@@ -230,7 +231,7 @@
 
   .footer-contents b{
     font-size: 18px;
-    padding-bottom: 5px;
+    padding-bottom: 2px;
   }
 
   .footer-contents a{
